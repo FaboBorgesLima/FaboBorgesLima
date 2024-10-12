@@ -1,4 +1,7 @@
+![Codewars](https://www.codewars.com/users/FaboBorgesLima/badges/large)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaboBorgesLima)
+
 ## About me
 
 Hi, I'm @FaboBorgeLima.
@@ -13,6 +16,7 @@ You can contact me at fabo.borges.lima@gmail.com
 - [rust-store](https://github.com/FaboBorgesLima/rust-store): a project that heavily uses containerization for development and deployment, with the backend being write in rust and the frontend being write in vueJS with tailwindCSS.
 - [tales of arda](https://faboborgeslima.github.io/rpg/): a rpg like game that runs in the navigator, made using angular and tailwindCSS.
 - [noodle-zap](https://github.com/FaboBorgesLima/noodle-zap): twitter like aplication using mongoDB, MySQL, docker, TailwindCSS, React and express.
+
 
 <!---
 FaboBorgesLima/FaboBorgesLima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
