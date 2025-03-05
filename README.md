@@ -4,10 +4,12 @@
 
 ## About me
 
-Hi, I'm @FaboBorgeLima.
-I like frontend development, backend development, devops and dogs.
-I'm currently learning Angular, Vue, Laravel, Rust and CD/CI, but i know React, Javascript, Typescript, PHP, SQL, NoSQL, CSS, TailwindCSS, HTML and python.
+Hi, I'm @FaboBorgeLima a fullstack developer.
+I like programming and find dogs realy cute.
+I'm still learning how to improve my code, but i already know a lot.
 You can contact me at fabo.borges.lima@gmail.com
+
+**[My portfolio](https://faboborgeslima.github.io/portfolio/)**
 
 ### Some projects 
 
