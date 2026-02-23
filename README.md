@@ -2,9 +2,9 @@
 
 ![Codewars](https://www.codewars.com/users/FaboBorgesLima/badges/large)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaboBorgesLima)
+[![FaboBorgesLima's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=FaboBorgesLima)]
 
-💻 **Code Enthusiast** | 🐶 **Dog Lover** | 🚀 **Continuous Learner**
+💻 **Code Enthusiast** | 🚀 **Continuous Learner**
 
 > "The art of programming is the art of organizing complexity." - Edsger W. Dijkstra
 
