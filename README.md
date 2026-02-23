@@ -2,7 +2,7 @@
 
 ![Codewars](https://www.codewars.com/users/FaboBorgesLima/badges/large)
 
-[![FaboBorgesLima's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FaboBorgesLima)]
+![FaboBorgesLima's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FaboBorgesLima)
 
 💻 **Code Enthusiast** | 🚀 **Continuous Learner**
 
